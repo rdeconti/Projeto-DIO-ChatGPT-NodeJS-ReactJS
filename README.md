@@ -21,5 +21,32 @@ Este projeto foi proposto pela Digital Innovation One
 ## Objetivos
 - Recrie o projeto do ChatGPT como apresentado no laboratório, tanto a parte do back-end quanto do front-end;
 
-## Exemplos e Insigths
-- Link da plataforma da API para pesquisar documentação: https://openai.com/blog/chatgpt
+## O que foi usado nos projetos
+
+### Backend
+  - Node
+  - Express
+  - Javascript
+  - Cors
+
+### Frontend
+  - React
+  - Javascript
+
+### Como eu faço para executar o serviço do backend?
+
+```sh
+$ cd server
+$ npm install
+$ npm start
+```
+
+Feito isso o serviço de backend estará funcionando na porta :5000. 
+
+### Como eu faço para executar o serviço do frontend?
+
+```sh
+$ cd web
+$ npm install
+$ npm start
+```
