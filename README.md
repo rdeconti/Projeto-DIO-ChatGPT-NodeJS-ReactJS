@@ -11,15 +11,15 @@
 <img align="right" alt="GIF" height="160px" src="https://github.com/rdeconti/rdeconti-resources/blob/main/Digital%20Innovation%20One%20-%20Logotipo.png" />
 
 Este projeto foi proposto pela Digital Innovation One
-- Link do código original: [Github](https://github.com/digitalinnovationone/lab-natty-or-not)
+- Link do código original: [Github](https://github.com/felipeAguiarCode/node-react-chatgpt-clone)
 - Professor: Felipe Silva Aguiar
-- Aulas: [DIO](????)
+- Aulas: [DIO](https://web.dio.me/project/integrando-o-chatgpt-com-node-e-react/learning/1305e5c6-a692-4a30-ad70-d62274c1bace?back=/track/formacao-chatgpt-devs&tab=undefined&moduleId=undefined)
 
 ## Descrição
-- 
+- Crie uma aplicação completa utilizando o recurso oficial da OpenAI, a inteligência por trás do chatGPT e crie um front-end clone da ferramenta mais popular do mercado para integrar com um back-end funcional.
 
 ## Objetivos
-- 
+- Recrie o projeto do ChatGPT como apresentado no laboratório, tanto a parte do back-end quanto do front-end;
 
 ## Exemplos e Insigths
-- 
+- Link da plataforma da API para pesquisar documentação: https://openai.com/blog/chatgpt
